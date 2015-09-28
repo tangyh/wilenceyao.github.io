@@ -11,13 +11,14 @@ permalink: /about/
 
 
 ### Education
- * Information Security, College of Computer Science, Chongqing University, Sept. 2011-Jun. 2015
+ * Information Security, College of Computer Science, Chongqing University, Sept. 2011 to Jun. 2015
 
 ### Skill
  * TCP/IP
  * OpenStack Network
  * Python
  * Algorithm Programming
+ * Operation and Maintenance
 
 
 ### Contact me
